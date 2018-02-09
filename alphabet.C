@@ -12,6 +12,5 @@ else
 {
 printf("%c not alphabet",c);
 }
-return 0;
 getch()
 }
