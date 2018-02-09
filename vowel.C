@@ -13,4 +13,5 @@ else
 printf("it is not vowel");
 }
 return 0;
+getch()
 }
