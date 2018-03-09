@@ -12,7 +12,9 @@
 	num=num/10;
  
 	}
+	  {
 	printf("\n%d",sum);
  getch(); 
 	return 0;
+  }
   }
