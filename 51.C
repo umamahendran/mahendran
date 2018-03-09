@@ -11,12 +11,14 @@ int main(void)
 		rev=(rev*10)+rem;
 		num=num/10;
 	}
+	{
 	num=rev;
 	while(num!=0)
 	{
 		rem=num%10;
 		printf("%d ",rem);
 		num=num/10;
+	}
 	}
   getch();
 	return 0;
