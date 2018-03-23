@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<conio.h>
 int main(void) 
 {
 	int n,l,r;
@@ -14,5 +15,6 @@ int main(void)
 	{
 		printf("\n no");
 	}
+	getch();
 	return 0;
 }
