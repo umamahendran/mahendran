@@ -24,5 +24,6 @@ int main(void)
 	{
 		printf("\nno");
 	}
+	getch();
 	return 0;
 }
