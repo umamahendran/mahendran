@@ -17,5 +17,6 @@ y=remainder;
 }while(remainder!=0);
 gcd=y;
 printf("\n the gcd of the given number is: %d",gcd);
+  getch();
 return 0;
 }
